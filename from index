@@ -1,0 +1,64 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+
+<body class="container">
+    <h1>Welcome to Avengers gallery</h1>
+    <br>
+    <br>
+    <section id="bpl">
+        <img src="1_DoctorStrange-posters.jpg" />
+        <span><img src="main-qimg-68827a0ed6475a5d7f7e5406445d114b.webp" /></span>
+        <span><img src="Falcon-From-Avengers-Infinity-War.jpg" /></span>
+        <div><img src="Smart-Hulk-Avengers-Endgame.jpg" />
+            <span><img src="2c3fd77862947349f29dc9a08d66ce7f.jpg" /></span>
+            <span><img src="1bc3cfcd8c7b7acafe07060c447a4650.jpg" /></span>
+        </div>
+    </section>
+    <br>
+    <br>
+    <section id="bpl2">
+                <div id="Carousel" class="carousel slide">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <center> <a href="#" target="_blank"> <img src="8a47e5f7d9e6daa284cef3a44e5c10cf.jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+                <div class="item">
+                    <center> <a href="#" target="_blank"> <img src="200px-Hugo_Weaving_as_Red_Skull.jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+                <div class="item">
+                    <center> <a href="#" target="_blank"> <img src="960x0.jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+                <div class="item">
+                    <center> <a href="#" target="_blank"> <img src="cc8da4b120ba6bf90328f8d2bd45a409--joss-whedon-avengers-age.jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+                <div class="item">
+                    <center> <a href="#" target="_blank"> <img src="download.jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+                
+                <div class="item">
+                    <center> <a href="#" target="_blank"> <img src="download (1).jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+                
+                <div class="item">
+                    <center> <a href="#" target="_blank"> <img src="download(2).jpg" class="img-responsive"/> </a>
+                                            </center>
+                </div>
+            </div>
+            <!-- Left and right controls --> <a class="left carousel-control" href="#Carousel" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#Carousel" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a></div>
+        
+                    </section>
+</body></html>
